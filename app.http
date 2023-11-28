@@ -1,0 +1,7 @@
+GET http://localhost:4000/books
+###
+GET http://localhost:4000/
+###
+GET http://localhost:4000/profile
+###
+GET http://localhost:4000/posts
